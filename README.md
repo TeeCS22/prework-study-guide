@@ -2,19 +2,17 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+ The motivation behind creating this front-end tutorial was to provide a comprehensive guide for beginners and experienced developers alike who are looking to enhance their knowledge and skills in front-end web development. The ever-evolving nature of web technologies necessitates continuous learning and adaptation.
+ This project was built to bridge the gap between theoretical knowledge and practical application. It’s one thing to understand the concepts of HTML, CSS, and JavaScript, but applying them to create interactive and responsive web pages is a different ball game. This tutorial aims to provide hands-on experience in building web pages from scratch.
+ The tutorial addresses the challenge of understanding and applying front-end technologies in real-world scenarios. It breaks down complex concepts into manageable chunks, making it easier for learners to grasp. By following the tutorial, users can learn how to create visually appealing, user-friendly, and responsive web pages.  Creating this tutorial was a learning experience in itself. It reinforced the importance of clear and concise communication in educational content. It also highlighted the need for practical examples when explaining theoretical concepts. Furthermore, it provided insights into common challenges faced by learners and effective strategies to overcome them.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 
 ## Installation
 
 N/A
 
 ## Usage
-This wntails how Prework Study Guide can be used. Each section contains notes about a certain topic, like HTML, CSS, JavaScript, Git. And if we open the DevTools console, we can see the JavaScript running. It will list the topics we learned from prework and choose one topic for us to study first
+This entails how Prework Study Guide can be used. Each section contains notes about a certain topic, like HTML, CSS, JavaScript, Git. And if we open the DevTools console, we can see the JavaScript running. It will list the topics we learned from prework and choose one topic for us to study first
 
 ## Credits
 
